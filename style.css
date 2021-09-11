@@ -1,5 +1,27 @@
 .navbar{
-  color: green;  
+	display: none;
 }
 
+.front-page-text{
+	width: 100%;
+	padding: 30px 30px 20px;
+	font-family: arial;
+	font-size: 50px;
+	color: #111;
+	line-height; 44px;
+}
 
+@media only screen and (min-width: 768px){
+	.navbar{
+		display: block;
+		width: 100%;
+		padding-bottom: 30px:
+
+	}
+
+}
+
+@media only screen and (min-with: 1000px){
+
+
+}
